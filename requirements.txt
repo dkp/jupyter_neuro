@@ -1,0 +1,9 @@
+# Python libraries
+matplotlib==3.5.2 
+matplotlib-base==3.5.2 
+matplotlib-inline==0.1.3 
+nibabel==4.0.1
+nilearn==0.9.1
+nltools==0.4.5
+pybids==0.15.1
+wget==3.2
