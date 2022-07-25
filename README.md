@@ -3,3 +3,6 @@ interactive bids python notebook based on DartBrains
 
 Visit
 https://mybinder.org/v2/gh/dkp/jupyter_neuro/main?labpath=Introduction_to_Neuroimaging_Data.ipynb
+
+A more focused notebook is available for PyBIDS: [Introduction_to_PyBIDS.ipynb](https://notebooks.gesis.org/binder/jupyter/user/dkp-jupyter_neuro-ce2sc9ah/doc/tree/Introduction_to_PyBIDS.ipynb)
+
