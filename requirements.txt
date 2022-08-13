@@ -6,9 +6,9 @@ pandas
 nibabel==4.0.1
 nilearn==0.9.1
 nltools==0.4.5
-numpy==1.23.1
+numpy
 pybids==0.15.1
-scikit-learn==1.1.1
-scipy==1.8.1
+scikit-learn
+scipy
 wget==3.2
 
